@@ -83,12 +83,12 @@
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav1n = MSFPpreload("_derived/home_cmp_vks-expedition010_vbtn_p.gif"); MSFPnav1h = MSFPpreload("_derived/home_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="index.html" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src">
+                                        <a href="Default.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src">
                                             <img src="_derived/home_cmp_vks-expedition010_vbtn_p.gif" width="140" height="50" border="0" alt="Начало" name="MSFPnav1"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav2n = MSFPpreload("_derived/vks_p02.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav2h = MSFPpreload("_derived/vks_p02.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p02.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src">
+                                        <a href="vks_p02.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src">
                                             <img src="_derived/vks_p02.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Пресофис" name="MSFPnav2"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav3n = MSFPpreload("_derived/vks_p06.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav3h = MSFPpreload("_derived/vks_p06.htm_cmp_vks-expedition010_vbtn_a.gif"); }
@@ -162,7 +162,7 @@
                                                     <span style="text-transform: uppercase"><b>
                                                         <font face="Cambria" size="3" color="#008000">
 <span style="text-decoration: none">
-<a style="text-decoration:none" href="vks_p02.htm">
+<a style="text-decoration:none" href="vks_p02.aspx">
 <font color="#008000">Пресофис</font></a></span></font></b></span>
                                                 </p>
                                                 <span style="text-decoration: none; font-size: 9pt">
