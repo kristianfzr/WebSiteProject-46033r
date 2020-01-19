@@ -98,47 +98,47 @@
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav4n = MSFPpreload("_derived/vks_p01.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav4h = MSFPpreload("_derived/vks_p01.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p01.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src">
+                                        <a href="vks_p01.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src">
                                             <img src="_derived/vks_p01.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="За съда" name="MSFPnav4"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav5n = MSFPpreload("_derived/vks_p10.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav5h = MSFPpreload("_derived/vks_p10.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p10.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src">
+                                        <a href="vks_p10.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src">
                                             <img src="_derived/vks_p10.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Решения на ВКС" name="MSFPnav5"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav6n = MSFPpreload("_derived/vks_p20.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav6h = MSFPpreload("_derived/vks_p20.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p20.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6h.src" onmouseout="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6n.src">
+                                        <a href="vks_p20.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6h.src" onmouseout="if(MSFPhover) document['MSFPnav6'].src=MSFPnav6n.src">
                                             <img src="_derived/vks_p20.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Документи ЗДОИ" name="MSFPnav6"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav7n = MSFPpreload("_derived/vks_p13.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav7h = MSFPpreload("_derived/vks_p13.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p13.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7h.src" onmouseout="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7n.src">
+                                        <a href="vks_p13.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7h.src" onmouseout="if(MSFPhover) document['MSFPnav7'].src=MSFPnav7n.src">
                                             <img src="_derived/vks_p13.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Профил на купувача" name="MSFPnav7"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav8n = MSFPpreload("_derived/vks_P14.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav8h = MSFPpreload("_derived/vks_P14.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_P14.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav8'].src=MSFPnav8h.src" onmouseout="if(MSFPhover) document['MSFPnav8'].src=MSFPnav8n.src">
+                                        <a href="vks_P14.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav8'].src=MSFPnav8h.src" onmouseout="if(MSFPhover) document['MSFPnav8'].src=MSFPnav8n.src">
                                             <img src="_derived/vks_P14.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Конкурси" name="MSFPnav8"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav9n = MSFPpreload("_derived/vks_P16.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav9h = MSFPpreload("_derived/vks_P16.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_P16.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav9'].src=MSFPnav9h.src" onmouseout="if(MSFPhover) document['MSFPnav9'].src=MSFPnav9n.src">
+                                        <a href="vks_P16.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav9'].src=MSFPnav9h.src" onmouseout="if(MSFPhover) document['MSFPnav9'].src=MSFPnav9n.src">
                                             <img src="_derived/vks_P16.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Обяви" name="MSFPnav9"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav10n = MSFPpreload("_derived/vks_p12.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav10h = MSFPpreload("_derived/vks_p12.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p12.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav10'].src=MSFPnav10h.src" onmouseout="if(MSFPhover) document['MSFPnav10'].src=MSFPnav10n.src">
+                                        <a href="vks_p12.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav10'].src=MSFPnav10h.src" onmouseout="if(MSFPhover) document['MSFPnav10'].src=MSFPnav10n.src">
                                             <img src="_derived/vks_p12.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Полезни връзки" name="MSFPnav10"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav11n = MSFPpreload("_derived/vks_p08.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav11h = MSFPpreload("_derived/vks_p08.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p08.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav11'].src=MSFPnav11h.src" onmouseout="if(MSFPhover) document['MSFPnav11'].src=MSFPnav11n.src">
+                                        <a href="vks_p08.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav11'].src=MSFPnav11h.src" onmouseout="if(MSFPhover) document['MSFPnav11'].src=MSFPnav11n.src">
                                             <img src="_derived/vks_p08.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Формуляри" name="MSFPnav11"></a><br>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav12n = MSFPpreload("_derived/vks_p07.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav12h = MSFPpreload("_derived/vks_p07.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                        <a href="vks_p07.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav12'].src=MSFPnav12h.src" onmouseout="if(MSFPhover) document['MSFPnav12'].src=MSFPnav12n.src">
+                                        <a href="vks_p07.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav12'].src=MSFPnav12h.src" onmouseout="if(MSFPhover) document['MSFPnav12'].src=MSFPnav12n.src">
                                             <img src="_derived/vks_p07.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Карта на сайта" name="MSFPnav12"></a><!--webbot bot="Navigation" i-checksum="31218" endspan -->
                                     </p>
                                     <p style="text-align: center">
