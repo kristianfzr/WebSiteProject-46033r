@@ -78,7 +78,7 @@
                                     <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav2n = MSFPpreload("_derived/vks_p06.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav2h = MSFPpreload("_derived/vks_p06.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
-                                    <a href="vks_p06.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src">
+                                    <a href="vks_p06.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src">
                                         <img src="_derived/vks_p06.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Контакти" name="MSFPnav2"></a><br>
                                     <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav3n = MSFPpreload("_derived/vks_p01.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav3h = MSFPpreload("_derived/vks_p01.htm_cmp_vks-expedition010_vbtn_a.gif"); }
