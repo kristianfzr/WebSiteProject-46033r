@@ -199,7 +199,7 @@
                                                                             <font color="#800000"><span style="font-size: 9pt; text-decoration: none">Във 
 ВКС бе образувано тълкувателно дело по въпроса дали съдът е длъжен служебно да 
 следи за нищожността на правни сделки, които са от значение за решаване на 
-правния спор</span></font><font color="#000000"><span style="font-size: 9pt; text-decoration: none"><a style="text-decoration: none" target="_blank" href="vks_p02_0674.htm"><font color="#800000">...&#9658;</font></a></span></font>
+правния спор</span></font><font color="#000000"><span style="font-size: 9pt; text-decoration: none"><a style="text-decoration: none" target="_blank" href="vks_p02_0674.aspx"><font color="#800000">...&#9658;</font></a></span></font>
                                                                         </p>
                                                                         <p class="MsoNormal" style="text-align: justify; margin-left: 20pt; margin-right: 20pt; margin-top: 0; margin-bottom: 0pt">
                                                                             &nbsp;
