@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Върховен касационен съд на Република България</title>
-</head>
-<body>
+
+
     <script language="JavaScript">
 <!--
     function FP_swapImg() {
@@ -45,7 +45,7 @@
         -->
     </style>
     <!--mstheme-->
-    <link rel="stylesheet" type="text/css" href="_themes/vks-expedition/vks-1011-1251.css">
+    <link rel="stylesheet" type="text/css" href="_themes/vks-expedition/vks-1011-1251.css"/>
     <meta name="Microsoft Theme" content="vks-expedition 1011, default">
     <meta name="Microsoft Border" content="none, default">
     </head>
@@ -104,7 +104,7 @@
     if (MSFPhover) { MSFPnav5n = MSFPpreload("_derived/vks_p10.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav5h = MSFPpreload("_derived/vks_p10.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
                                         <a href="vks_p10.aspx" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5h.src" onmouseout="if(MSFPhover) document['MSFPnav5'].src=MSFPnav5n.src">
-                                            <img src="_derived/vks_p10.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Решения на ВКС" name="MSFPnav5"></a><br>
+                                            <img src="_derived/vks_p10.htm_cmp_vks-expedition010_vbtn.gif" width="140" height="50" border="0" alt="Решения на ВКС" name="MSFPnav5"></a><br/>
                                         <script language="JavaScript"><!--
     if (MSFPhover) { MSFPnav6n = MSFPpreload("_derived/vks_p20.htm_cmp_vks-expedition010_vbtn.gif"); MSFPnav6h = MSFPpreload("_derived/vks_p20.htm_cmp_vks-expedition010_vbtn_a.gif"); }
 // --></script>
@@ -331,20 +331,20 @@
                                                 <p style="text-align: center">
                                                     <b>
                                                         <font face="Cambria" size="3" color="#008000">
-<a href="vks_p12.htm" style="text-decoration: none"><font color="#008000"  style="text-decoration:none"><span style="text-decoration: none">ПОЛЕЗНИ ВРЪЗКИ</span></font></a></font></b>
+<a href="vks_p12.aspx" style="text-decoration: none"><font color="#008000"  style="text-decoration:none"><span style="text-decoration: none">ПОЛЕЗНИ ВРЪЗКИ</span></font></a></font></b>
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 3pt">
                                                     <b><span style="text-transform: uppercase">
                                                         <font color="#333333">
 <span style="text-decoration: none">
-<a style="text-decoration: none" href="vks_p12.htm#РАЙОННИ СЪДИЛИЩА">
+<a style="text-decoration: none" href="vks_p12.aspx#РАЙОННИ СЪДИЛИЩА">
 <font color="#333333" style="font-size: 9pt">Съдилища</font></a></span></font></span><span lang="en-us"><span style="text-transform: uppercase"><font style="font-size: 9pt" color="#333333"> </font>
 </span><font style="font-size: 9pt" color="#333333">&#9658;&nbsp;&nbsp;&nbsp; </font></span></b>
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 3pt">
                                                     <b><font color="#333333">
 <span style="text-transform: uppercase; ">
-<a href="vks_p12.htm#СЪДЕБНА СИСТЕМА" style="text-decoration: none">
+<a href="vks_p12.aspx#СЪДЕБНА СИСТЕМА" style="text-decoration: none">
 <font color="#333333" style="font-size: 9pt">
 <span style="text-decoration: none">Съдебна система</span></font></a></span></font><font style="font-size: 9pt" color="#333333"><span lang="en-us"><span style="text-transform: uppercase">&nbsp;</span> 
 &#9658;</span></font></b>
@@ -360,7 +360,7 @@
                                                         <span style="text-decoration: none; font-size: 9pt; text-transform: uppercase">
                                                             <font color="#333333">
 <span style="text-decoration: none">
-<a style="text-decoration: none; font-size: 9pt; text-transform: uppercase" href="vks_p12.htm#ПРОФЕСИОНАЛНИ ОРГАНИЗАЦИИ">ПРОФЕСИОНАЛНИ ОРГАНИЗАЦИИ</a></span></font></span></a><font color="#333333"><span style="font-size: 9pt; text-transform: uppercase"><font style="font-size: 9pt; text-transform:uppercase">&nbsp; </font>
+<a style="text-decoration: none; font-size: 9pt; text-transform: uppercase" href="vks_p12.aspx#ПРОФЕСИОНАЛНИ ОРГАНИЗАЦИИ">ПРОФЕСИОНАЛНИ ОРГАНИЗАЦИИ</a></span></font></span></a><font color="#333333"><span style="font-size: 9pt; text-transform: uppercase"><font style="font-size: 9pt; text-transform:uppercase">&nbsp; </font>
 </span></font><span lang="en-us">
     <font style="font-size: 9pt; text-transform: uppercase" color="#333333">
 &#9658;</font></span></b>
@@ -368,7 +368,7 @@
                                                 <p style="margin: 3pt 5px; text-align: center;">
                                                     <b><font color="#333333">
 <span style="font-size: 9pt; text-transform: uppercase">
-<a href="vks_p12.htm#ДЪРЖАВНИ ИНСТИТУЦИИ" style="text-decoration: none">
+<a href="vks_p12.aspx#ДЪРЖАВНИ ИНСТИТУЦИИ" style="text-decoration: none">
 <font color="#333333"><span style="text-decoration: none">Държавни институции</span></font></a><font style="font-size: 9pt; text-transform:uppercase"> </font>
 </span></font><span lang="en-us">
     <font style="font-size: 9pt; text-transform: uppercase" color="#333333">
@@ -377,7 +377,7 @@
                                                 <p style="margin: 3pt 5px; text-align: center;">
                                                     <b>
                                                         <font style="font-size: 9pt; text-transform: uppercase" color="#333333">
-<a href="vks_p12.htm#ЕВРОПЕЙСКИ ИНСТИТУЦИИ" style="text-decoration: none">
+<a href="vks_p12.aspx#ЕВРОПЕЙСКИ ИНСТИТУЦИИ" style="text-decoration: none">
 <font color="#333333"><span style="text-decoration: none">Европейски институции</span></font></a><span lang="en-us">&nbsp; &#9658;</span></font></b>
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 3pt">
