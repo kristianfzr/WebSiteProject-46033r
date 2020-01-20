@@ -310,20 +310,20 @@
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 5pt">
                                                     <font color="#333333" style="font-size: 9pt; text-transform: uppercase; font-weight: 700">
-<a style="text-decoration: none" href="vks_p09_04.htm"><span style="text-decoration: none">
+<a style="text-decoration: none" href="vks_p09_04.aspx"><span style="text-decoration: none">
 <font color="#333333">Информация за съдебната палата</font></span></a></font><font style="font-size: 9pt; text-transform: uppercase; font-weight: 700"> </font>
                                                     <b><font style="font-size: 9pt" color="#333333"><span lang="en-us">&#9658;</span></font></b>
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 5pt">
                                                     <span style="text-decoration: none; font-size: 9pt"><font color="#800000">
-<span style="text-decoration: none; font-weight:700; text-transform:uppercase"><a href="vks_p09_04_02.h" style="text-decoration: none">
+<span style="text-decoration: none; font-weight:700; text-transform:uppercase"><a href="vks_p09_04_02.aspx" style="text-decoration: none">
 <font color="#333333"><span style="text-decoration: none">Разположение и контакти на различните институции </span> </font></a></span></font></span>
                                                     <b><font style="font-size: 9pt" color="#333333">
 <span lang="en-us">&#9658;</span></font></b>
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 5pt">
                                                     <span style="font-size: 9pt">
-                                                        <a href="vks_p09_04_03.htm" style="text-decoration: none"><span style="text-decoration: none; font-weight: 700; text-transform: uppercase">
+                                                        <a href="vks_p09_04_03.aspx" style="text-decoration: none"><span style="text-decoration: none; font-weight: 700; text-transform: uppercase">
                                                             <font color="#333333"><span style="text-decoration: none">съдебни зали &#9658</span></font></span></a>
                                                         <span style="font-weight: 700; text-transform: uppercase"><font color="#000000">				</font></span></span>
                                             </td>
