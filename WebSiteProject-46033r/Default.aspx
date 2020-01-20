@@ -185,7 +185,7 @@
                                                                                 <font color="#800000"><span style="font-size: 9pt; text-decoration: none">След 
 окончателно решение на ВКС: 30<span lang="en-us">&nbsp;</span>години „лишаване от 
 свобода“ за Божидар Димитров за убийството на Вероника Петрова в столичния кв. 
-„Свобода“ през 2018 г.</span></font><font color="#000000"><span style="font-size: 9pt; text-decoration: none"><a style="text-decoration: none" target="_blank" href="vks_p02_0675.htm"><font color="#800000">...&#9658;</font></a></span></font>
+„Свобода“ през 2018 г.</span></font><font color="#000000"><span style="font-size: 9pt; text-decoration: none"><a style="text-decoration: none" target="_blank" href="vks_p02_0675.aspx"><font color="#800000">...&#9658;</font></a></span></font>
                                                                             </p>
                                                                         </span>
                                                                         <p class="MsoNormal" style="text-align: justify; margin-left: 20pt; margin-right: 20pt; margin-top: 0; margin-bottom: 0pt;">
