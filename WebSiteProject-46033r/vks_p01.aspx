@@ -3,8 +3,15 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>ЗА СЪДА</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>За ВКС</title>
+<meta name="keywords" content="ВКС, Парвомощия, Състав и структура, История">
+<meta name="description" content="Инфомрация за Върховният касационен съд на Република България">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="VI60_defaultClientScript" content="JavaScript">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.4)">
+<!--mstheme--><link rel="stylesheet" type="text/css" href="_themes/vks-expedition/vks-1011-1251.css"><meta name="Microsoft Theme" content="vks-expedition 1011, default">
 </head>
 <body>
 
