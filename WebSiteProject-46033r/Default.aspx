@@ -246,13 +246,13 @@
                                                 </a>
                                                 <font color="#800000"><b><span style="text-decoration: none">
 <font color="#333333">
-<a style="text-decoration: none; text-transform:uppercase" href="vks_p03.htm">&nbsp;</a>
+<a style="text-decoration: none; text-transform:uppercase" href="vks_p03.aspx">&nbsp;</a>
 <p style="text-align: left; margin-left: 5px; margin-right:5px; margin-top: 0; margin-bottom: 3pt">
 <span style="text-transform: uppercase">
 <font face="Cambria" size="3" color="#008000">Справки по дела </font></span></p>
 <p style="margin-left: 5px; margin-top: 0; margin-bottom: 5pt; margin-right:5px">
 <font color="#800000"><b><span style="text-decoration: none">
-<a style="text-decoration: none; text-transform:uppercase" href="vks_p03.htm">
+<a style="text-decoration: none; text-transform:uppercase" href="vks_p03.aspx">
 <font color="#333333"><span style="font-size: 9pt">Търсене на дела и съдебни актове</span>&nbsp;</font></a></span> </b></font></p>
 <p style="margin-left: 5px; margin-top: 5pt; margin-bottom: 1pt; margin-right:5px; text-align:left">
 <span style="text-transform: uppercase">
@@ -265,13 +265,13 @@
 <p style="margin:5pt 5px; ">
 <font color="#800000">
 <span style="FONT-WEIGHT: 700; TEXT-DECORATION: none">
-<a style="TEXT-DECORATION: none" href="vks_p15.htm">
+<a style="TEXT-DECORATION: none" href="vks_p15.aspx">
 <span style="text-decoration: none; text-transform: uppercase">
 <font color="#333333" style="font-size: 9pt">Търсене чрез деловодни данни и референтни показатели</font></span></a></span></font></p>
 <p style="margin:5pt 5px; ">
 <font color="#800000">
 <span style="FONT-WEIGHT: 700; TEXT-DECORATION: none">
-<a style="TEXT-DECORATION: none" href="vks_p15a.htm">
+<a style="TEXT-DECORATION: none" href="vks_p15a.aspx">
 <span style="text-decoration: none; text-transform: uppercase">
 <font color="#333333" style="font-size: 9pt">Търсене чрез азбучен индекс</font></span></a></span></font></td>
                                         </tr>
@@ -301,7 +301,7 @@
                                                 <p style="text-align: center; margin-top: 0; margin-bottom: 2pt">
                                                     <span style="text-transform: uppercase"><b>
                                                         <font face="Cambria" size="3" color="#008000">
-<a href="vks_p09.htm"  style="text-decoration:none"><font color="#008000">
+<a href="vks_p09.aspx"  style="text-decoration:none"><font color="#008000">
 <span style="text-decoration: none">Съдебна палата</span></font></a></font></b></span>
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 5pt">
@@ -316,7 +316,7 @@
                                                 </p>
                                                 <p style="text-align: center; margin-left: 5px; margin-right: 5px; margin-top: 0; margin-bottom: 5pt">
                                                     <span style="text-decoration: none; font-size: 9pt"><font color="#800000">
-<span style="text-decoration: none; font-weight:700; text-transform:uppercase"><a href="vks_p09_04_02.htm" style="text-decoration: none">
+<span style="text-decoration: none; font-weight:700; text-transform:uppercase"><a href="vks_p09_04_02.h" style="text-decoration: none">
 <font color="#333333"><span style="text-decoration: none">Разположение и контакти на различните институции </span> </font></a></span></font></span>
                                                     <b><font style="font-size: 9pt" color="#333333">
 <span lang="en-us">&#9658;</span></font></b>
